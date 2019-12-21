@@ -1,6 +1,6 @@
 {
   "name": "ilink.demo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "recommand demo for ilink",
   "main": "index.js",
   "scripts": {

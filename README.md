@@ -17,8 +17,6 @@ ilink.demo
 
 npm i -g  demo.module1.ilink
 
-ilink.demo
-
 npm i -g demo.module2.ilink
 
 ilink.demo

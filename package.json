@@ -1,6 +1,6 @@
 {
   "name": "ilink.demo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "recommand demo for ilink",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/apporoad/ilink.demo#readme",
   "dependencies": {
-    "ilink.js": "^1.1.1"
+    "ilink.js": "^1.1.2"
   },
   "bin": {
     "ilink.demo": "index.js"

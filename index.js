@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 var saySome = require('./saySome')
 
 saySome.hello()

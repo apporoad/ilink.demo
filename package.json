@@ -24,6 +24,6 @@
     "ilink.js": "^1.1.0"
   },
   "bin": {
-    "ilink.demo": "./index.js"
+    "ilink.demo": "index.js"
   }
 }
